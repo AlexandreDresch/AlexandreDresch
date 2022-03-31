@@ -9,6 +9,7 @@
 <br />
 <br />
 <br />
+<br />
 <p>Frameworks and programming languages that make me smile:</p>
 <img align="left" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
