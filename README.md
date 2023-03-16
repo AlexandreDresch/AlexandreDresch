@@ -13,7 +13,8 @@
 <br/>
 <br/>
 <br/>
-## Technologies I use in my daily life:
+
+<h3>Technologies I use in my daily life:</h3>
 
 <div style="display: inline_block">
   <img align="center" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
