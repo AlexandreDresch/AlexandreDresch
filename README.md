@@ -1,7 +1,8 @@
 # Hi there, I'm Alexandre! 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AlexandreDresch&show_icons=true&theme=dark" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreDresch&layout=compact" /> 
-
+<br/>
+<br/>
 ## Technologies I use in my daily life:
 
 <div style="display: inline_block">
@@ -11,8 +12,3 @@
   <img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
-
-
-
-
-
