@@ -3,6 +3,16 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreDresch&layout=compact" /> 
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ## Technologies I use in my daily life:
 
 <div style="display: inline_block">
