@@ -37,8 +37,11 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreDresch&layout=compact" /> 
 </div>
 
-<h4>Contact me:</h4>
-<p>  <a href="https://www.linkedin.com/in/alexandre-dresch/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p> 
+<b>Contact me:</b>
+<br />
+<br />
+ <a href="https://www.linkedin.com/in/alexandre-dresch/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <br/> 
 📧 <span>z3r0pc@prontonmail.com </span>
 </p>
