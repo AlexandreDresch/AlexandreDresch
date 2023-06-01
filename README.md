@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my profile, I'm Alexandre.</h1>
-<p>Welcome to my page! </br> I'm a Fullstack Javascript developer from <b>Rio Grande do Sul, Brazil</b>.</p>
+<p>I'm a Fullstack Javascript developer from <b>Rio Grande do Sul, Brazil</b>.</p>
 
 <h3>Technologies I code with:</h3>
 <p>
