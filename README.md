@@ -30,7 +30,7 @@
 <h3> Technologies I'm learning:</h3>
 <p>
 <img alt="Nest" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-square&logo=nestjs&logoColor=white" />
-<img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=white" />  
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-square&logo=spring-boot" />  
 </p>
 <div>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AlexandreDresch&show_icons=true&theme=light" />
