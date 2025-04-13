@@ -1,7 +1,57 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my profile, I'm Alexandre.</h1>
-<p>I'm a Fullstack Javascript developer from <b>Rio Grande do Sul, Brazil</b>.</p>
+<h1 align="left"> 
+  𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃
+  ALEXANDRE DRESCH :: FULLSTACK DEVELOPER
+</h1>
 
-<h3>Technologies I code with:</h3>
+```bash
+> SYSTEM STATUS: CONNECTED
+> SAFEGUARDS: ACTIVE
+> CURRENT MISSION: BUILDING THE NETSPHERE
+```
+
+### CYBERWARE INSTALLATIONS
+
+```terminal
+[ REACT-CORE v18.2.0 ]    ■■■■■■■■■■ 100% 
+[ TYPESCRIPT-OS v5.3.3 ]  ■■■■■■■■■■ 100%
+[ NODE-ENGINE v20.11.1 ]  ■■■■■■■■■□ 90%
+[ SAFEGUARD-API v3.4.1 ]  ■■■■■■■■■■ 100%
+```
+
+### MEGASTRUCTURE BLUEPRINTS
+
+```assembly
+SECTION 0x1A3F: FRONTEND ARCHITECTURE
+MOV React, [UI_Framework]
+MOV TypeScript, [Safety_Protocols]
+MOV NextJS, [SSR_Drive]
+
+SECTION 0x8C2E: BACKEND SYSTEMS
+LEA NodeJS, [Runtime_Environment]
+CMP MongoDB, #NoSQL_Storage
+JNE Security_Protocols
+```
+
+### NEURAL INTERFACE PROTOCOLS
+
+```hex
+0x1A 0x43 0x7F 0xE2  -  LINKEDIN CONNECTION
+0x9B 0x2D 0xF0 0x11  -  GITHUB REPOSITORIES
+0xC4 0x5E 0x88 0x03  -  ENCRYPTED MAIL ROUTE
+```
+
+### CONNECTION REQUEST
+
+```network-packet
+FROM:    USER_DEVICE
+TO:      NETSPHERE_ARCHITECT
+PROTOCOL: COLLABORATION_REQUEST
+PAYLOAD: INNOVATION_AND_CODE
+```
+
+<p><a href="https://www.linkedin.com/in/alexandre-dresch/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-INITIATE_HANDSHAKE-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="CyberLink"></a></p>
+<p><strong>EMAIL TRANSMISSION:</strong> <code>connectWithAlexandre@proton.me</code></p>
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-square&logo=react&logoColor=61DAFB" />
@@ -25,20 +75,10 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 <img alt="Linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-square&logo=linux&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-square&logo=figma&logoColor=white" />
+  <img alt="Nest" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-square&logo=nestjs&logoColor=white" />
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-square&logo=spring-boot" />
 </p>
-
-<h3> Technologies I'm learning:</h3>
-<p>
-<img alt="Nest" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-square&logo=nestjs&logoColor=white" />
-<img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-square&logo=spring-boot" />  
-</p>
-<div>
+<div width="100%">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AlexandreDresch&show_icons=true&theme=light" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreDresch&layout=compact" /> 
 </div>
-
-<p>
- <a href="https://www.linkedin.com/in/alexandre-dresch/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<br/> 
-📧 <span>connectWithAlexandre@proton.me </span>
-</p>
