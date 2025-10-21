@@ -79,6 +79,6 @@ PAYLOAD: INNOVATION_AND_CODE
 <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-square&logo=spring-boot" />
 </p>
 <div width="100%">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AlexandreDresch&show_icons=true&theme=light" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AlexandreDresch&show_icons=true" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreDresch&layout=compact" /> 
 </div>
